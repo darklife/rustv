@@ -8,3 +8,5 @@ I even added a base code in Rust, so you can break the reality mirror, go over t
 "crab, run, crash" -- rust dev
 
 <img width="1258" height="837" alt="Screen Shot 2026-04-03 at 2 29 58 PM" src="https://github.com/user-attachments/assets/20a35ae5-717c-44f1-b9d3-6c3cfde24000" />
+
+case you are interested in a real processor in Verilog: https://github.com/darklife/darkriscv
